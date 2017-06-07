@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="us-ascii"?>
+<Message xmlns="http://schemas.microsoft.com/servicebusexplorer">
+  <Date>June 6, 2017 23:16:01</Date>
+  <Content><![CDATA[<message>Sent from SBE</message>]]></Content>
+</Message>
